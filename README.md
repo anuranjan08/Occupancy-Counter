@@ -37,7 +37,7 @@ UART (Universal Asysnchronous Reciever-Transmitter)
 
 ## _Machine Learning and Sensors_
 - Occupancy counting using statistic and data.
-- Analysis data collected from real world.
+- Analysing data collected from real world.
 - Less device involvement.
 - Better accuracy compared to baseline methods.
 
